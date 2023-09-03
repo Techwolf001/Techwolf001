@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Techwolf001
 - 👀 I’m interested in Collaborating with programmers
-- 🌱 I’m currently learning Golang, PHP and Python
+- 🌱 I’m currently learning ReactJS, Golang, PHP and Python
 - 💞️ I’m looking to collaborate on HTML, CSS and JS projects
 
 
